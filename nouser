@@ -668,8 +668,8 @@ detectdistro () {
 
 # Host and User detection - Begin
 detecthost () {
-	myUser=${USER}
-	myHost=${HOSTNAME}
+	myUser="NoUserMod"
+	myHost="NoUserMod"
 	if [[ "${distro}" == "Mac OS X" ]]; then myHost=${myHost/.local}; fi
 	verboseOut "Finding hostname and user...found as '${myUser}@${myHost}'"
 }
