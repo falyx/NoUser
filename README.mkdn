@@ -2,14 +2,18 @@
 
 ## How to Install
 
-### Unix/Linux/Mac OS X
+### Unix/Linux/Darwin
 1. Extract "nouser" to $HOME folder
 2. Run script in terminal by using:
 ```
 ./nouser
 ```
-### cygwin/Windows
-1. Coming soon
+### NT (with cygwin)
+1. Extract "nouser" to C:/cygwin64/home/YOURUSERNAME/
+2. Run script in terminal by using:
+```
+./nouser
+```
 
 # Screen-Shots
 
@@ -17,3 +21,6 @@
 ![ScreenShot](http://i.imgur.com/8hVAMth.png)
 ### Linux (Lubuntu)
 ![ScreenShot](http://i.imgur.com/ddugYUx.png)
+### Windows/cygwin
+![ScreenShot](http://i.imgur.com/jTfX09A.png)
+*will try to get better screenshots
