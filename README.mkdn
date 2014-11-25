@@ -15,3 +15,5 @@
 
 ### Mac OS X
 ![ScreenShot](http://i.imgur.com/8hVAMth.png)
+### Linux (Lubuntu)
+![ScreenShot](http://i.imgur.com/ddugYUx.png)
